@@ -1,4 +1,4 @@
-# -Context-Aware-Chatbot-Using-LangChain-and-RAG
+# Context-Aware-Chatbot-Using-LangChain-and-RAG
 
 This project is a Retrieval-Augmented Generation (RAG) based chatbot that automatically answers user queries.
 
